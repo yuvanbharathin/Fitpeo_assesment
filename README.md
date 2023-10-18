@@ -1,4 +1,6 @@
 Fitpeo Interview assesmemt project
+![Screenshot 2023-10-18 174343](https://github.com/yuvanbharathin/Fitpeo_assesment/assets/109664373/db494c7f-2212-4153-a1a5-8c2a9b1ca612)
+
 
 # Getting Started with Create React App
 
